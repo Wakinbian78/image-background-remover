@@ -1,0 +1,7 @@
+name = "image-background-remover"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+account_id = "4a2ead26486b4f74f649bbef07710e5f"
+
+[vars]
+# REMOVE_BG_API_KEY is set via wrangler secret (not here)
