@@ -10,3 +10,4 @@ build/
 *.webp
 input_images/
 output_images/
+worker/node_modules/
